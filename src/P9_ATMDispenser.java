@@ -4,7 +4,7 @@
 	Date: 
 */
 
-public class P8_ATMDispenser {
+public class P9_ATMDispenser {
 
 	public static void main(String[] args) {
 		

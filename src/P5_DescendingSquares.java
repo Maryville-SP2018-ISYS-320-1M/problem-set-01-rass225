@@ -9,7 +9,7 @@
 
 */
 
-public class P6_DescendingSquares {
+public class P5_DescendingSquares {
 
 	public static void main(String[] args) {
 		// 7. Your program code here
